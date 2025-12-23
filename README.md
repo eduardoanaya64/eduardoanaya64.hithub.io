@@ -8,6 +8,14 @@ I’m a data-focused analyst with hands-on experience building dashboards, autom
 - Power BI Dashboards
 - Python Cleaning Scripts
 
+## Tech Stack
+
+**Languages:** Python, SQL  
+**Analytics & BI:** Power BI, SAP Analytics Cloud, Tableau  
+**Data:** Excel, CSV, ETL Pipelines, SAP Data Services, Azure Data Factory, AWS Glue  
+**Systems:** Active Directory, Business Objects  
+**Tools:** GitHub, AI-assisted development tools
+
 ## Contact
 - GitHub: https://github.com/eduardoanaya64
 - LinkedIn: https://www.linkedin.com/in/eduardo-anayaa/
